@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/eds-reusable-blocks-second/:/",
+    "/content/eds-reusable-blocks-second/configuration:/.helix/config.json",
+    "/content/eds-reusable-blocks-second/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/eds-reusable-blocks-second/"
   ]
 }
