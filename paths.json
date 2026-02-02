@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-reusable-blocks-second/:/",
-    "/content/eds-reusable-blocks-second/configuration:/.helix/config.json",
-    "/content/eds-reusable-blocks-second/metadata:/metadata.json"
+    "/content/eds-reusable-blocks-sec/:/",
+    "/content/eds-reusable-blocks-sec/configuration:/.helix/config.json",
+    "/content/eds-reusable-blocks-sec/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-reusable-blocks-second/"
+    "/content/eds-reusable-blocks-sec/"
   ]
 }
